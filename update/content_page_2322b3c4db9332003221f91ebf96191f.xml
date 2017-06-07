@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-06-07 14:55:47">
+    <sys_portal action="delete_multiple" query="page=2322b3c4db9332003221f91ebf96191f">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="">2322b3c4db9332003221f91ebf96191f</page>
+                <summary>ARMS - Help</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-07 13:06:22</sys_created_on>
+                <sys_id>ed82bb84db9332003221f91ebf96191e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-07 13:07:56</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-07 06:06:22">ed82bb84db9332003221f91ebf96191e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-07 13:06:22</sys_created_on>
+                        <sys_id>2582bb84db9332003221f91ebf961920</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-07 13:07:55</sys_updated_on>
+                        <value>ARMS - Help</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-07 06:06:22">ed82bb84db9332003221f91ebf96191e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-07 13:06:22</sys_created_on>
+                        <sys_id>2d82bb84db9332003221f91ebf961920</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-07 13:07:56</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-07 06:06:22">ed82bb84db9332003221f91ebf96191e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-07 13:06:22</sys_created_on>
+                        <sys_id>6182bb84db9332003221f91ebf96191f</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-07 13:07:56</sys_updated_on>
+                        <value>cd9277c4db9332003221f91ebf9619c4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-07 06:06:22">ed82bb84db9332003221f91ebf96191e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-07 13:06:22</sys_created_on>
+                        <sys_id>a182bb84db9332003221f91ebf961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-07 13:06:22</sys_updated_on>
+                        <value>2322b3c4db9332003221f91ebf96191f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-07 06:06:22">ed82bb84db9332003221f91ebf96191e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-07 13:06:22</sys_created_on>
+                        <sys_id>ad82bb84db9332003221f91ebf96191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-07 13:06:22</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="ARMS">1e046977db8332003221f91ebf961979</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>false</frame_buster>
+        <layout display_value="layout_center_on_screen">464932910a0a0b17003327c8f622dcce</layout>
+        <model_id/>
+        <model_table/>
+        <name>ARMS - Help</name>
+        <order/>
+        <parent_page/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 13:05:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2322b3c4db9332003221f91ebf96191f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ARMS - Help</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>content_page_2322b3c4db9332003221f91ebf96191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 13:07:56</sys_updated_on>
+        <title/>
+        <url_suffix>arms_help</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

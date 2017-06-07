@@ -7,14 +7,14 @@
         <content_block_menu display_value="ARMS - Header Menu">ec17ab00db9332003221f91ebf9619bc</content_block_menu>
         <db_left_menu_image/>
         <db_right_menu_image/>
-        <detail_page/>
+        <detail_page display_value="ARMS - Help">2322b3c4db9332003221f91ebf96191f</detail_page>
         <footer/>
         <header/>
-        <iframe/>
+        <iframe>arms_main</iframe>
         <image/>
         <image_right/>
         <logged_on>false</logged_on>
-        <name>Administration</name>
+        <name>Help</name>
         <omit_body>false</omit_body>
         <order>300</order>
         <roles/>
@@ -24,18 +24,18 @@
         <sys_created_on>2017-06-07 12:17:49</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>cc67ef00db9332003221f91ebf961978</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Administration</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Help</sys_name>
         <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
         <sys_update_name>menu_section_cc67ef00db9332003221f91ebf961978</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-07 12:17:49</sys_updated_on>
+        <sys_updated_on>2017-06-07 13:08:56</sys_updated_on>
         <tag/>
-        <target>internal</target>
-        <type>url</type>
+        <target>iframe</target>
+        <type>content_page</type>
         <url/>
     </menu_section>
     <sys_translated_text action="delete_multiple" query="documentkey=cc67ef00db9332003221f91ebf961978"/>

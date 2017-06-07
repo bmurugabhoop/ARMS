@@ -7,14 +7,14 @@
         <content_block_menu display_value="ARMS - Header Menu">ec17ab00db9332003221f91ebf9619bc</content_block_menu>
         <db_left_menu_image/>
         <db_right_menu_image/>
-        <detail_page/>
+        <detail_page display_value="ARMS - About">eff4c8dcdb9332003221f91ebf961902</detail_page>
         <footer/>
         <header/>
         <iframe/>
         <image/>
         <image_right/>
         <logged_on>false</logged_on>
-        <name>Elevated Access Rights</name>
+        <name>About</name>
         <omit_body>false</omit_body>
         <order>200</order>
         <roles/>
@@ -24,18 +24,18 @@
         <sys_created_on>2017-06-07 12:17:32</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>56472340db9332003221f91ebf96191e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Elevated Access Rights</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>About</sys_name>
         <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
         <sys_update_name>menu_section_56472340db9332003221f91ebf96191e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-07 12:17:32</sys_updated_on>
+        <sys_updated_on>2017-06-07 14:30:48</sys_updated_on>
         <tag/>
         <target>internal</target>
-        <type>url</type>
+        <type>content_page</type>
         <url/>
     </menu_section>
     <sys_translated_text action="delete_multiple" query="documentkey=56472340db9332003221f91ebf96191e"/>

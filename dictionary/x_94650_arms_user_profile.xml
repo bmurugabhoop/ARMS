@@ -7,20 +7,29 @@
         <element label="Employee Number" mandatory="true" max_length="40" name="employee_number" type="string"/>
         <element choice="1" label="Employee Status" mandatory="true" max_length="40" name="employee_status" type="string">
             <choice>
-                <element label="Permanent" value="Permanent"/>
+                <element label="DXC" sequence="0" value="DXC"/>
+                <element label="Temp" sequence="1" value="Temp"/>
+                <element label="Contractor" sequence="2" value="Contractor"/>
             </choice>
         </element>
-        <element label="Expected Assignnment End Date" max_length="40" name="expected_assignnment_end_date" type="glide_date"/>
-        <element label="Expiry Date" max_length="40" name="expiry_date" type="glide_date"/>
+        <element label="Expected Assignment End Date" mandatory="true" max_length="40" name="expected_assignnment_end_date" type="glide_date"/>
+        <element label="Expiry Date" mandatory="true" max_length="40" name="expiry_date" type="glide_date"/>
         <element label="Line Manager" max_length="40" name="line_manager" type="string"/>
-        <element label="Mobile Number" max_length="40" name="mobile_number" type="string"/>
-        <element label="Name" max_length="40" name="name" type="string"/>
-        <element label="Nationality" max_length="40" name="nationality" type="string"/>
-        <element label="Office Number" max_length="40" name="office_number" type="string"/>
-        <element label="Role" max_length="40" name="role" type="string"/>
-        <element label="Security Clearance Obtained" max_length="40" name="security_clearance_obtained" type="string"/>
-        <element label="Team/Section" max_length="40" name="team_section" type="string"/>
-        <element label="Working Location" max_length="40" name="working_location" type="string"/>
-        <element label="Work Area" max_length="40" name="work_area" type="string"/>
+        <element label="Mobile Number" mandatory="true" max_length="40" name="mobile_number" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Nationality" mandatory="true" max_length="40" name="nationality" type="string">
+            <choice>
+                <element label="UK" sequence="0" value="UK"/>
+                <element label="DL" sequence="1" value="DL"/>
+                <element label="NL" sequence="2" value="NL"/>
+                <element label="US" sequence="3" value="US"/>
+            </choice>
+        </element>
+        <element label="Office Number" mandatory="true" max_length="40" name="office_number" type="string"/>
+        <element label="Role" mandatory="true" max_length="40" name="role" type="string"/>
+        <element label="Security Clearance Obtained" mandatory="true" max_length="40" name="security_clearance_obtained" type="string"/>
+        <element label="Team/Section" mandatory="true" max_length="40" name="team_section" type="string"/>
+        <element label="Working Location" mandatory="true" max_length="40" name="working_location" type="string"/>
+        <element label="Work Area" mandatory="true" max_length="40" name="work_area" type="string"/>
     </element>
 </database>

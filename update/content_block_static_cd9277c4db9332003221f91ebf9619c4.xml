@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>ARMS - Help</name>
+        <static_content><![CDATA[<p><strong>About Urenco Compliance Programme</strong></p>
+<p> </p>
+<p>The purpose of the Urenco Compliance Programmedatabase is to support the UNIX, VPN, SRT, Database, Mainframe and Active Directory user Access Account revalidation process.<br /><br />For error messages and issues surrounding database functionality, please log a USD help desk call, indicating that it is for the Lotus Notes Urenco Compliance Programme database, and request that the call is allocated to the CSC.CHO.GTS.NENGROW resolver group.</p>
+<p> </p>
+<p> </p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 13:07:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cd9277c4db9332003221f91ebf9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARMS - Help</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>content_block_static_cd9277c4db9332003221f91ebf9619c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 13:07:55</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd9277c4db9332003221f91ebf9619c4"/>
+</record_update>

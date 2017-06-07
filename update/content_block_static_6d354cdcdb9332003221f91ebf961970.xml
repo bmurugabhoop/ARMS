@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>ARMS - About</name>
+        <static_content><![CDATA[<h1>System Scope</h1>
+<p><span style="font-size: 12.0pt; color: black;">ARMS is used for setting up and closing down privileged accounts, both administrator accounts and service accounts, for use by DXC personnel in managing client&#39;s systems and services.   </span></p>
+<p><span style="font-size: 12.0pt; color: black;"> </span></p>
+<p><span style="font-size: 12.0pt; color: black;">ARMS does not cater for managing access rights for</span></p>
+<ul><li style="margin: 0in 0in .0001pt .25in;"><span style="font-size: 12.0pt; color: black;">end users; nor </span></li><li style="margin: 0in 0in .0001pt .25in;"><span style="font-size: 12.0pt; color: black;">third party personnel; nor</span></li><li style="margin: 0in 0in .0001pt .25in;"><span style="font-size: 12.0pt; color: black;">privileged access by DXC staff to DXC internal systems; nor</span></li><li style="margin: 0in 0in .0001pt .25in;"><span style="font-size: 12.0pt; color: black;">end user access to applications; nor </span></li><li style="margin: 0in 0in .0001pt .25in;"><span style="font-size: 12.0pt; color: black;">VPN access to the client infrastructure.</span></li></ul>
+<p><span style="font-size: 12.0pt; color: black;">These are covered by separate processes and, in some cases, supporting applications.</span></p>
+<p><span style="font-size: 12.0pt; color: black;"> </span></p>
+<h1>Key objectives</h1>
+<p><span style="font-size: 12.0pt; color: black;">The key aims of ARMS are to</span></p>
+<ol><li><span style="font-size: 12.0pt; color: black;">provide a proper system of authority for privileged accounts, so no rights are established without the express permission of DXC management;</span></li><li><span style="font-size: 12.0pt; color: black;">enforce the security principle of <strong><em><u>Segregation of Duties</u></em></strong>. Hence an Administrator cannot request ask for access rights for themselves.      Rather their manager, the ‘Requestor’, must raise a request for a member of their staff, the Administrator, to have access rights;    </span></li><li><span style="font-size: 12.0pt; color: black;">enforce compliance to client information security policy and data, particularly the BT Access Control Policy, BT Access Control Management Standard and the BT Password Management Standard;</span></li><li><span style="font-size: 12.0pt; color: black;">automate and safeguard record keeping of request and approvals, as evidence of due process to BT management and auditors;</span></li><li><span style="font-size: 12.0pt; color: black;">to minimize the effort on the part of CSC managers and administrators to create, extend and remove access rights of their staff, and without them needing to keep records or remember to renew and review accounts; </span></li><li><span style="font-size: 12.0pt; color: black;">enforce the security principle of <strong><em><u>Least Privilege</u></em></strong>e. ARMS can identify and respond to situations where the Administrator may not need or should no longer have their access rights;</span></li><li><span style="font-size: 12.0pt; color: black;">implement recommendations made by BT, CASRA and external auditors; and</span></li><li><span style="font-size: 12.0pt; color: black;">enforce good security practice, e.g. in complying with the principles of ISO 27001.</span><span style="font-size: 12.0pt; color: black;"> <br /></span></li></ol>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 14:30:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6d354cdcdb9332003221f91ebf961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARMS - About</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>content_block_static_6d354cdcdb9332003221f91ebf961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 14:30:28</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=6d354cdcdb9332003221f91ebf961970"/>
+</record_update>
