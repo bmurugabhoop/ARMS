@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_item">
+    <menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <detail_page/>
+        <iframe>arms_main</iframe>
+        <image/>
+        <logged_on>false</logged_on>
+        <menu_section display_value="My Actions &amp; Access">c5fae6bbdb0732003221f91ebf96191d</menu_section>
+        <name>My Urenco Account Profile</name>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-06 13:19:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>feeba23fdb0732003221f91ebf9619a2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Urenco Account Profile</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>menu_item_feeba23fdb0732003221f91ebf9619a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 11:34:52</sys_updated_on>
+        <tag/>
+        <target>iframe</target>
+        <type>url</type>
+        <url>x_94650_arms_user_profile</url>
+    </menu_item>
+</record_update>

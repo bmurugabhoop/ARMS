@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_menu">
+    <content_block_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <align_sections_with_tab>false</align_sections_with_tab>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>ARMS - UCP Splash Menu</name>
+        <sys_class_name>content_block_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-06 11:49:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>28571a73db0732003221f91ebf9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARMS - UCP Splash Menu</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>content_block_menu_28571a73db0732003221f91ebf9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-06 11:49:37</sys_updated_on>
+        <type>vertical_blocks</type>
+    </content_block_menu>
+</record_update>
