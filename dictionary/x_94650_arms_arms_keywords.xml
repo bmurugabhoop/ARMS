@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ARMS - Keywords" max_length="40" name="x_94650_arms_arms_keywords" type="collection">
+        <element label="Keywords" max_length="40" name="keywords" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

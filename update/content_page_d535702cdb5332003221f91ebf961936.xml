@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-06-13 07:24:48">
+    <sys_portal action="delete_multiple" query="page=d535702cdb5332003221f91ebf961936">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>0</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                <sys_id>61edbc60db9332003221f91ebf96195d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">61edbc60db9332003221f91ebf96195d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>61edbc60db9332003221f91ebf96195e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">61edbc60db9332003221f91ebf96195d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e1edbc60db9332003221f91ebf96195d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>55bde306ef230000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">61edbc60db9332003221f91ebf96195d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e5edbc60db9332003221f91ebf96195e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>Portal - Nav Column Common</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">61edbc60db9332003221f91ebf96195d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e9edbc60db9332003221f91ebf96195d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">61edbc60db9332003221f91ebf96195d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>ededbc60db9332003221f91ebf96195e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>57f67b720a0a0bdd00f5f11df403c958</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                <sys_id>65edbc60db9332003221f91ebf961956</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">65edbc60db9332003221f91ebf961956</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>61edbc60db9332003221f91ebf961958</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>content_block_header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">65edbc60db9332003221f91ebf961956</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>69edbc60db9332003221f91ebf961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>ARMS - Header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">65edbc60db9332003221f91ebf961956</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e1edbc60db9332003221f91ebf961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">65edbc60db9332003221f91ebf961956</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e5edbc60db9332003221f91ebf961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>8a29253bdb8332003221f91ebf9619ec</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">65edbc60db9332003221f91ebf961956</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e5edbc60db9332003221f91ebf961958</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>29c5863bdbc332003221f91ebf96190b</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                <sys_id>75edbc60db9332003221f91ebf96196c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">75edbc60db9332003221f91ebf96196c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>75edbc60db9332003221f91ebf96196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>*New IFrame</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">75edbc60db9332003221f91ebf96196c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>7dedbc60db9332003221f91ebf96196d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">75edbc60db9332003221f91ebf96196c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>f1edbc60db9332003221f91ebf96196e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>d535702cdb5332003221f91ebf961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">75edbc60db9332003221f91ebf96196c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>f5edbc60db9332003221f91ebf96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>50578ef9c0a80006005ee11e0d61cb8f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">75edbc60db9332003221f91ebf96196c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>fdedbc60db9332003221f91ebf96196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>2</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                <sys_id>79edbc60db9332003221f91ebf96197f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">79edbc60db9332003221f91ebf96197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>79edbc60db9332003221f91ebf961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">79edbc60db9332003221f91ebf96197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>f1edbc60db9332003221f91ebf961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">79edbc60db9332003221f91ebf96197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>f5edbc60db9332003221f91ebf961981</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>57f67b720a0a0bdd00f5f11df403c958</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">79edbc60db9332003221f91ebf96197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>f9edbc60db9332003221f91ebf96197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>22be2306ef230000914304167b2256df</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">79edbc60db9332003221f91ebf96197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>fdedbc60db9332003221f91ebf961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>Portal - Content Column Common</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>1</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                <sys_id>e1edbc60db9332003221f91ebf961964</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">e1edbc60db9332003221f91ebf961964</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>61edbc60db9332003221f91ebf961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>d535702cdb5332003221f91ebf961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">e1edbc60db9332003221f91ebf961964</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>65edbc60db9332003221f91ebf961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>92da2ebbdb0732003221f91ebf9619c0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">e1edbc60db9332003221f91ebf961964</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>69edbc60db9332003221f91ebf961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>ARMS - Left Navigator</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">e1edbc60db9332003221f91ebf961964</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>6dedbc60db9332003221f91ebf961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">e1edbc60db9332003221f91ebf961964</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>e1edbc60db9332003221f91ebf961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>content_block_menu</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>1</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                <sys_id>f5edbc60db9332003221f91ebf961975</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">f5edbc60db9332003221f91ebf961975</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>71edbc60db9332003221f91ebf961976</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">f5edbc60db9332003221f91ebf961975</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>75edbc60db9332003221f91ebf961977</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>d535702cdb5332003221f91ebf961936</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">f5edbc60db9332003221f91ebf961975</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>79edbc60db9332003221f91ebf961975</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>5087da73db0732003221f91ebf96199f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">f5edbc60db9332003221f91ebf961975</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>7dedbc60db9332003221f91ebf961976</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>ARMS - Admin Splash Menu</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:10">f5edbc60db9332003221f91ebf961975</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:10</sys_created_on>
+                        <sys_id>f5edbc60db9332003221f91ebf961976</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:10</sys_updated_on>
+                        <value>content_block_menu</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone100</dropzone>
+                <offset>0</offset>
+                <page display_value="ARDB Administration| ARMS Portal">d535702cdb5332003221f91ebf961936</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-08 13:14:11</sys_created_on>
+                <sys_id>f9edbc60db9332003221f91ebf96198a</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:11">f9edbc60db9332003221f91ebf96198a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:11</sys_created_on>
+                        <sys_id>71edbc60db9332003221f91ebf96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+                        <value>ARMS - Footer</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:11">f9edbc60db9332003221f91ebf96198a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:11</sys_created_on>
+                        <sys_id>75edbc60db9332003221f91ebf96198b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:11">f9edbc60db9332003221f91ebf96198a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:11</sys_created_on>
+                        <sys_id>79edbc60db9332003221f91ebf96198c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+                        <value>29c5863bdbc332003221f91ebf96190b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:11">f9edbc60db9332003221f91ebf96198a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:11</sys_created_on>
+                        <sys_id>7dedbc60db9332003221f91ebf96198a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+                        <value>61f8e53bdb8332003221f91ebf9619b2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-06-08 06:14:11">f9edbc60db9332003221f91ebf96198a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-08 13:14:11</sys_created_on>
+                        <sys_id>f9edbc60db9332003221f91ebf96198b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="ARMS">1e046977db8332003221f91ebf961979</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>true</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>ARMS - Administration</name>
+        <order/>
+        <parent_page display_value="ARMS - Administration">d535702cdb5332003221f91ebf961936</parent_page>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-08 12:36:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d535702cdb5332003221f91ebf961936</sys_id>
+        <sys_mod_count>131</sys_mod_count>
+        <sys_name>ARMS - Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>content_page_d535702cdb5332003221f91ebf961936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-08 13:14:11</sys_updated_on>
+        <title>ARDB Administration| ARMS Portal</title>
+        <url_suffix>arms_admin</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>draft</workflow_state>
+    </content_page>
+</record_update>

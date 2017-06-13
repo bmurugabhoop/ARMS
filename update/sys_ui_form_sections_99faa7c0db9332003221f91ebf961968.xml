@@ -15,6 +15,34 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-07 12:33:18</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 12:51:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd1f11b1db9332003221f91ebf96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_94650_arms_user_profile" name="x_94650_arms_user_profile" sys_domain="global" view="Default view">99faa7c0db9332003221f91ebf961968</sys_ui_form>
+            <sys_ui_section caption="Induction Tasks" display_value="Induction Tasks" name="x_94650_arms_user_profile" sys_domain="global" view="Default view">0d1f11b1db9332003221f91ebf96198a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 12:51:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 12:51:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d1f11b1db9332003221f91ebf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_94650_arms_user_profile" name="x_94650_arms_user_profile" sys_domain="global" view="Default view">99faa7c0db9332003221f91ebf961968</sys_ui_form>
+            <sys_ui_section caption="Info" display_value="Info" name="x_94650_arms_user_profile" sys_domain="global" view="Default view">491f11b1db9332003221f91ebf96198b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 12:51:31</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_94650_arms_user_profile</name>
             <roles/>

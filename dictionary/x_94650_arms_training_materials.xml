@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Training Materials" max_length="40" name="x_94650_arms_training_materials" type="collection">
+        <element label="File Name" max_length="40" name="file_name" type="string"/>
+    </element>
+</database>

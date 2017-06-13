@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ARMS - Approval Groups" max_length="40" name="x_94650_arms_arms_approval_groups" type="collection">
+        <element label="Area" max_length="40" name="area" type="string"/>
+        <element label="First Approver" max_length="40" name="first_approver" type="string"/>
+        <element label="Head of Line of Service" max_length="40" name="head_of_line_of_service" type="string"/>
+        <element label="Second Approver" max_length="40" name="second_approver" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-08 12:59:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>78aabcecdb5332003221f91ebf96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_94650_arms_arms_keywords.x_94650_arms.arms_keywords_user</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_security_acl display_value="x_94650_arms_arms_keywords">30aabcecdb5332003221f91ebf961920</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78aabcecdb5332003221f91ebf96193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-08 12:59:54</sys_updated_on>
+        <sys_user_role display_value="x_94650_arms.arms_keywords_user" name="x_94650_arms.arms_keywords_user">60aa34ecdb5332003221f91ebf961931</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

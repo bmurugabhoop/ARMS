@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ARMS - Server Teams" max_length="40" name="x_94650_arms_arms_server_teams" type="collection">
+        <element label="Account Name Format" max_length="40" name="account_name_format" type="string"/>
+        <element label="Action Managers" max_length="40" name="action_managers" type="string"/>
+        <element label="Queue Managers" max_length="40" name="queue_managers" type="string"/>
+        <element choice="1" label="Queue Manager Action" max_length="40" name="queue_manager_action" type="choice">
+            <choice/>
+        </element>
+        <element label="Server List Required" max_length="40" name="server_list_required" type="string"/>
+        <element label="Server Type" max_length="40" name="server_type" type="string"/>
+    </element>
+</database>

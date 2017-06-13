@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <advanced_layout/>
+        <description/>
+        <layout><![CDATA[<table style="width: 100%; text-align: center; max-width: 800px; margin: auto;">
+<tbody>
+<tr></tr>
+<tr>
+<td style="color: #e7e9eb; height: 60px; text-align: left; border-bottom: 1px solid #bec1c6; background-color: #e7e9eb; padding: 10px 0px 10px 30px;"><img src="sys_attachment.do?sys_id=188a2d7cdb5332003221f91ebf9619c7" alt="" title="" style="align: baseline;" height="37" hspace="" vspace="" width="214" align="bottom" border="" /></td>
+</tr>
+<tr>
+<td style="color: #303a46; text-align: left; font-size: 16px; background-color: #e7e9eb; padding: 25px 0px 10px 30px;">
+<p class="p1">${notification:body}</p>
+</td>
+</tr>
+<tr>
+<td style="background-color: #e7e9eb; padding-left: 30px;">
+<table style="text-align: center; background-color: #278efc; border-color: #0368d4; border-radius: 5px; color: white; height: 35px;">
+<tbody>
+<tr>
+<td style="text-align: center; color: #ffffff; padding-left: 20px; padding-right: 20px; font-size: 16px;">${mail_script:go_to_instance_hyperlink}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>]]></layout>
+        <name>ARMS - User Profile Creation Email Layout</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-09 11:09:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>943a6d7cdb5332003221f91ebf9619a5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ARMS - User Profile Creation Email Layout</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>sys_email_layout_943a6d7cdb5332003221f91ebf9619a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-09 11:47:21</sys_updated_on>
+    </sys_email_layout>
+</record_update>
