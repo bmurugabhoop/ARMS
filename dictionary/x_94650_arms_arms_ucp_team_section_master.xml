@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ARMS - UCP Team Section Master" max_length="40" name="x_94650_arms_arms_ucp_team_section_master" type="collection">
+        <element display="true" label="TeamSection" max_length="40" name="teamsection" type="string"/>
+    </element>
+</database>

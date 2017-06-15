@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ARMS - UCP Location Master" max_length="40" name="x_94650_arms_arms_ucp_location_master" type="collection">
+        <element display="true" label="Location" max_length="40" name="location" type="string"/>
+    </element>
+</database>

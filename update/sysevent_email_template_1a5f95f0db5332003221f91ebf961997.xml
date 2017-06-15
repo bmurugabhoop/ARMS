@@ -4,7 +4,8 @@
         <collection>x_94650_arms_user_profile</collection>
         <email_layout display_value="ARMS - User Profile Creation Email Layout">943a6d7cdb5332003221f91ebf9619a5</email_layout>
         <message/>
-        <message_html><![CDATA[<p>Dear ${name},</p>
+        <message_html><![CDATA[<p><img style="align: baseline;" title="DXC" src="sys_attachment.do?sys_id=306ad4fedb1332003221f91ebf9619bf" alt="http://www.dxc.technology/" width="266" height="46" align="bottom" border="" hspace="" vspace="" /></p>
+<p>Dear ${name},</p>
 <p><span style="color: black;">Welcome to the Urenco account team. Please note the important details provided below.<br /></span></p>
 <p><span style="color: black;">Number: ${number}</span></p>
 <p><span style="color: black;">Expected Assignment End Date: ${expected_assignnment_end_date}<br /></span></p>
@@ -20,9 +21,9 @@
         <sys_class_name>sysevent_email_template</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-09 10:23:49</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>1a5f95f0db5332003221f91ebf961997</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>ARMS - Email Template</sys_name>
         <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
         <sys_policy/>
@@ -30,7 +31,7 @@
         <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
         <sys_update_name>sysevent_email_template_1a5f95f0db5332003221f91ebf961997</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-09 12:24:03</sys_updated_on>
+        <sys_updated_on>2017-06-15 10:26:56</sys_updated_on>
         <sys_version>2</sys_version>
     </sysevent_email_template>
 </record_update>

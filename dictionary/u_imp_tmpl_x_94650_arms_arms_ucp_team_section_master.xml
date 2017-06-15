@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 94650 Arms Arms Ucp Team Section Master" max_length="40" name="u_imp_tmpl_x_94650_arms_arms_ucp_team_section_master" type="collection">
+        <element attributes="import_attribute_name=TeamSection,edge_encryption_enabled=true" label="TeamSection" max_length="40" name="u_teamsection" type="string"/>
+    </element>
+</database>

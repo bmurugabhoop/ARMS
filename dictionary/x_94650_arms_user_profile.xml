@@ -2,7 +2,13 @@
 <database>
     <element label="ARMS - User Profile" max_length="40" name="x_94650_arms_user_profile" type="collection">
         <element label="Account Commencement Date" mandatory="true" max_length="40" name="account_commencement_date" type="glide_date"/>
-        <element label="Company Name" mandatory="true" max_length="40" name="company_name" type="string"/>
+        <element choice="1" default="CSC" label="Company Name" mandatory="true" max_length="40" name="company_name" type="string">
+            <choice>
+                <element label="AT&amp;T" sequence="0" value="AT&amp;T"/>
+                <element label="CSC" sequence="1" value="CSC"/>
+                <element label="HPE" sequence="2" value="HPE"/>
+            </choice>
+        </element>
         <element label="Date of Birth" mandatory="true" max_length="40" name="date_of_birth" type="glide_date"/>
         <element label="Employee Number" mandatory="true" max_length="40" name="employee_number" type="string"/>
         <element choice="3" default="DXC" label="Employee Status" mandatory="true" max_length="40" name="employee_status" type="string">
@@ -27,19 +33,49 @@
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Office Number" mandatory="true" max_length="40" name="office_number" type="phone_number_e164"/>
-        <element label="Security Clearance Obtained" mandatory="true" max_length="40" name="security_clearance_obtained" type="string"/>
+        <element choice="1" label="Security Clearance Obtained" mandatory="true" max_length="40" name="security_clearance_obtained" type="string">
+            <choice>
+                <element label="B(NL)" sequence="0" value="B(NL)"/>
+                <element label="Background Investigation(US)" sequence="1" value="Background Investigation(US)"/>
+                <element label="BPSS(UK)" sequence="2" value="BPSS(UK)"/>
+                <element label="DV(UK)" sequence="3" value="DV(UK)"/>
+                <element label="HO SC(UK)" sequence="4" value="HO SC(UK)"/>
+                <element label="L(US)" sequence="5" value="L(US)"/>
+                <element label="Off-shore" sequence="6" value="Off-shore"/>
+                <element label="Q(US)" sequence="7" value="Q(US)"/>
+                <element label="SC(UK)" sequence="8" value="SC(UK)"/>
+                <element label="Secret(US)" sequence="9" value="Secret(US)"/>
+                <element label="U1(D)" sequence="10" value="U1(D)"/>
+                <element label="U2(D)" sequence="11" value="U2(D)"/>
+                <element label="U3(D)" sequence="12" value="U3(D)"/>
+                <element label="VOG(NL)" sequence="13" value="VOG(NL)"/>
+            </choice>
+        </element>
         <element label="Status" max_length="40" name="status" read_only="true" type="string"/>
-        <element label="Team/Section" mandatory="true" max_length="40" name="team_section" type="string"/>
+        <element label="Team/Section" mandatory="true" max_length="40" name="team_section" reference="x_94650_arms_arms_ucp_team_section_master" type="reference"/>
         <element label="User Email" mandatory="true" max_length="40" name="user_email" type="string"/>
         <element label="Account Induction Completion Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
         <element label="Security Induction Training Completion Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
         <element label="CSC Policies, Procedures &amp; Standards Completion Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
-        <element label="Working Location" mandatory="true" max_length="40" name="working_location" type="string"/>
-        <element label="Work Area" mandatory="true" max_length="40" name="work_area" type="string"/>
+        <element label="Role" mandatory="true" max_length="32" name="u_role" reference="x_94650_arms_arms_ucp_roles_master" type="reference"/>
+        <element label="Working Location" mandatory="true" max_length="40" name="working_location" reference="x_94650_arms_arms_ucp_location_master" type="reference"/>
+        <element choice="1" label="Work Area" mandatory="true" max_length="40" name="work_area" type="string">
+            <choice>
+                <element label="Applications Management" sequence="1" value="Applications Management"/>
+                <element label="Infrastructure" sequence="2" value="Infrastructure"/>
+                <element label="Other" sequence="3" value="Other"/>
+                <element label="Service Desk &amp; End User Services" sequence="4" value="Service Desk &amp; End User Services"/>
+                <element label="Service Mgt (inc Service Integration" sequence="5" value="Service Mgt (inc Service Integration"/>
+                <element label="Support Staff" sequence="8" value="Support Staff"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="line_manager"/>
         </index>
         <index name="index2">
+            <element name="u_role"/>
+        </index>
+        <index name="index3">
             <element name="name"/>
         </index>
     </element>
