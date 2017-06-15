@@ -12,7 +12,7 @@
         <sys_class_name>content_block_menu</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 12:16:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ec17ab00db9332003221f91ebf9619bc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ARMS - Header Menu</sys_name>

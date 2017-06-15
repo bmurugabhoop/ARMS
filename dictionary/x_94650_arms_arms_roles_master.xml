@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="ARMS - Roles Master" max_length="40" name="x_94650_arms_arms_roles_master" type="collection">
-        <element label="Role Name" max_length="40" name="role_name" type="string"/>
-    </element>
-</database>

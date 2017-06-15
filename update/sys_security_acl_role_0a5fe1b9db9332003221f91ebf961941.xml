@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-12 14:02:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0a5fe1b9db9332003221f91ebf961941</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_94650_arms_training_materials.x_94650_arms.training_materials_user</sys_name>

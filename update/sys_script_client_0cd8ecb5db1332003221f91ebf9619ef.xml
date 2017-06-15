@@ -28,7 +28,7 @@ g_form.showFieldMsg('expected_assignment_end_date','Expected Assignment End Date
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-12 08:56:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0cd8ecb5db1332003221f91ebf9619ef</sys_id>

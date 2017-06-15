@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="sys_import_set_row" label="ARMS - Roles" max_length="40" name="x_94650_arms_arms___roles" type="collection">
-        <element attributes="import_attribute_name=Role Name,edge_encryption_enabled=true" label="Role Name" max_length="42" name="u_role_name" type="string"/>
-    </element>
-</database>

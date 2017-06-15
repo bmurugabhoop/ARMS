@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_item">
+    <menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <detail_page/>
+        <iframe/>
+        <image/>
+        <logged_on>false</logged_on>
+        <menu_section display_value="Account Settings">912a1a74dbd332003221f91ebf961944</menu_section>
+        <name>My Profile</name>
+        <order/>
+        <roles/>
+        <sys_class_name>menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:59:19</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>74a64c36db1332003221f91ebf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Profile</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>menu_item_74a64c36db1332003221f91ebf9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 08:59:19</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>content_page</type>
+        <url/>
+    </menu_item>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#5bb460</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <file_name>image</file_name>
+        <image_height>16</image_height>
+        <image_width>16</image_width>
+        <size_bytes>628</size_bytes>
+        <size_compressed>642</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:59:29</sys_created_on>
+        <sys_id>c3b6cc36db1332003221f91ebf961905</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 08:59:29</sys_updated_on>
+        <table_name>ZZ_YYmenu_item</table_name>
+        <table_sys_id>74a64c36db1332003221f91ebf9619fe</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="c3b6cc36db1332003221f91ebf961905">c3b6cc36db1332003221f91ebf961905</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:59:29</sys_created_on>
+        <sys_id>07b6cc36db1332003221f91ebf961905</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>c/d0s7BMFGAQYHhWwnD79a/gSaeNyv7HNR7fXCv99+XWt1/+qm1jnLTuWdDEUzdf/Xzy/vfvY/1ffv4rWnvrxYXO4jV3vmxMu/v215/7izgnsn7bkPL8/Y+YhpOvP//qONUWPOmUYel/u7W6r778efT+97MPf5JP2CdcMNfYwmi3U6LmYuicy7NiG4/ff/s7ektCxOYww5UKwRNP+R9R7DjSLtGeqL1A5+3bd9EnzdZViOzrNs5eeLH2tk/BylsLry64sDBAZa7Ci8+/598t/32sb9KNvEvv/yjNUYhqPNX9ONJmi/iuR//fffuz4tz/P3/+llwKXnftv94SuTWX/4tMVNJcz9S95P/773/1Vsje3lTy8fvfnpOzSlvn/zzdk7IrUWU9Y/5F9x+//82/Mvf9t79bPrUseFoaU3ppwY6XmoskO072911P23zr/5YP9dvu/S+6FPjs45+J13N7ryc/evPfebfc/vMv907xXvG8yu6gdMOVyO7JC1kaGOxrj/wHAwZCQPEnCyMDQwmDDogDihMG9osNJU3NJdnizO1qDr4tLcHOKUkeXq6xJSaMM2dKcRbMm19QUlSsLsTAxbB82YpizkXFrEYBxqzccvLbuNeuZ2ER5mGxSuM4Elesvd4iZH8Om6zLObZisfWiPKw2ooFRQfoi3qpXFkcI8gvy8mr4hzsqxGuuF7Dj55NI0DLV8XEq9pRcLMBmsaHxITunqdKaM5If1fpk1JmecTQktjDNsmTnS5ARdm9u6JA2W3JSUO3YHMs8py2dlz0CuPli+s5oblb1a5vWFFNgsXmx+xwtC/a7Hc4m3QscGKwBJdcUk3QCAAA=</data>
+        <length>844</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="c3b6cc36db1332003221f91ebf961905">c3b6cc36db1332003221f91ebf961905</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:59:29</sys_created_on>
+        <sys_id>87b6cc36db1332003221f91ebf961905</sys_id>
+    </sys_attachment_doc>
+</record_update>

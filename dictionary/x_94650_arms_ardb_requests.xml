@@ -22,5 +22,8 @@
         <element label="Technical Function" max_length="40" name="technical_function" type="string"/>
         <element label="Type of Account" max_length="40" name="type_of_account" type="string"/>
         <element label="Type of Change" max_length="40" name="type_of_change" type="string"/>
+        <index name="index">
+            <element name="administrator"/>
+        </index>
     </element>
 </database>

@@ -16,7 +16,7 @@
         <sys_class_name>content_block_static</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 13:07:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>cd9277c4db9332003221f91ebf9619c4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ARMS - Help</sys_name>

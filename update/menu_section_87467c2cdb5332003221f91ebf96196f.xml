@@ -22,7 +22,7 @@
         <sys_class_name>menu_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-08 12:41:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>87467c2cdb5332003221f91ebf96196f</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Server Teams</sys_name>

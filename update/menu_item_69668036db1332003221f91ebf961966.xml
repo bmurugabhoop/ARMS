@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_item">
+    <menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <detail_page display_value="ARMS - My Approvals">d38ada74dbd332003221f91ebf96197b</detail_page>
+        <iframe/>
+        <image/>
+        <logged_on>false</logged_on>
+        <menu_section display_value="Account Settings">912a1a74dbd332003221f91ebf961944</menu_section>
+        <name>Approvals</name>
+        <order/>
+        <roles/>
+        <sys_class_name>menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:58:18</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>69668036db1332003221f91ebf961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvals</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>menu_item_69668036db1332003221f91ebf961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 08:58:18</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>content_page</type>
+        <url/>
+    </menu_item>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#31a920</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <file_name>image</file_name>
+        <image_height>16</image_height>
+        <image_width>16</image_width>
+        <size_bytes>1006</size_bytes>
+        <size_compressed>611</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:58:31</sys_created_on>
+        <sys_id>4d860c36db1332003221f91ebf961942</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 08:58:31</sys_updated_on>
+        <table_name>ZZ_YYmenu_item</table_name>
+        <table_sys_id>69668036db1332003221f91ebf961966</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="4d860c36db1332003221f91ebf961942">4d860c36db1332003221f91ebf961942</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:58:31</sys_created_on>
+        <sys_id>45860c36db1332003221f91ebf961943</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>c/d0s7BMFGAQYPiexRA86ZTaNkajsv8nbr16+/bd4xfvDl1/dfjGS8PS/5wTWe3W6nacajv7+PvnH3+fvP/94/c/591yTz78vvvml8YWxjdf/5y8/erFpz+vPv9RWc+oMleh93ryo/e/3337Y7dTQnuBjs0Wcc1FknpL5IouBd59+rb2tk/DlcjgSae//vz78fvfFc+rtnyon3Qjb8HT0vff/yafsO9+HBmxOazjZP/bL387jrR/+P5Xoj3xxeffzz7+efT+18svfyZez9VbIXv/7e/ok2YP3/8quRR889XP33//v//2N/+i+923v3pOzpp/t1xkolLCBfOai6GHrr/su5727MOfhVcXHL4J9BfQtb+///635VOL/xHFX3/+zb8yN3vhRc31TFcfvbn9+terL3++/f6nNEfhy89/dgel51yedf/tL8OVCim7EoMnnoreknDzydugiadYGhjsa4/8//+fYRQMcaD4k4WRgSGLQQfEAeUJBo7TDFcjDBOXLZBk4Di7IvKEgO+sdoHLIgkLJiyUamefY2O5wCWJr0tM9pPCJNaORhPlUwkrd1xYyCyfoDKnxUItRYrbRyZnhcGC586zRfRu7BBkdBfk5+yryZzRxsYuGbVgwk3DJ63cAgZRyywvMrROkEj08Nn5SdG3g1X8sk3HpaWM01UE1BI8Li88MnOL4wqbG5McnGcxMP5bteO1QVKbqq1cleOkpgJupgmXzwQceOQuJRh0bgGrAgMjEyPTpSsBCw6f6DJO0lkVdvlJz2ut1cmr+TgYrAENa/0P7gMAAA==</data>
+        <length>804</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="4d860c36db1332003221f91ebf961942">4d860c36db1332003221f91ebf961942</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 08:58:31</sys_created_on>
+        <sys_id>c5860c36db1332003221f91ebf961943</sys_id>
+    </sys_attachment_doc>
+</record_update>

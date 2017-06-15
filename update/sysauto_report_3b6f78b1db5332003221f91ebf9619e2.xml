@@ -25,7 +25,7 @@
         <sys_class_name>sysauto_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-12 10:34:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3b6f78b1db5332003221f91ebf9619e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Scheduled Execution of ARMS - User Account Profile Creation Requests</sys_name>

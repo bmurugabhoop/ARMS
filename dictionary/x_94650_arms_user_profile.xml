@@ -15,7 +15,7 @@
         <element label="Expected Assignment End Date" mandatory="true" max_length="40" name="expected_assignnment_end_date" type="glide_date"/>
         <element label="Expiry Date" mandatory="true" max_length="40" name="expiry_date" type="glide_date"/>
         <element label="Line Manager" max_length="40" name="line_manager" reference="sys_user" type="reference"/>
-        <element label="Mobile Number" mandatory="true" max_length="40" name="mobile_number" type="string"/>
+        <element label="Mobile Number" mandatory="true" max_length="40" name="mobile_number" type="phone_number_e164"/>
         <element display="true" label="Name" mandatory="true" max_length="40" name="name" reference="sys_user" type="reference"/>
         <element choice="1" label="Nationality" mandatory="true" max_length="40" name="nationality" type="string">
             <choice>
@@ -26,18 +26,21 @@
             </choice>
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
-        <element label="Office Number" mandatory="true" max_length="40" name="office_number" type="string"/>
-        <element choice="1" dependent="role" dependent_on_field="role" label="Role" mandatory="true" max_length="40" name="role" reference="x_94650_arms_arms___roles" type="reference" use_dependent_field="true">
-            <choice/>
-        </element>
+        <element label="Office Number" mandatory="true" max_length="40" name="office_number" type="phone_number_e164"/>
         <element label="Security Clearance Obtained" mandatory="true" max_length="40" name="security_clearance_obtained" type="string"/>
         <element label="Status" max_length="40" name="status" read_only="true" type="string"/>
         <element label="Team/Section" mandatory="true" max_length="40" name="team_section" type="string"/>
-        <element label="User Email" max_length="40" name="user_email" type="string"/>
+        <element label="User Email" mandatory="true" max_length="40" name="user_email" type="string"/>
         <element label="Account Induction Completion Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
         <element label="Security Induction Training Completion Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
         <element label="CSC Policies, Procedures &amp; Standards Completion Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
         <element label="Working Location" mandatory="true" max_length="40" name="working_location" type="string"/>
         <element label="Work Area" mandatory="true" max_length="40" name="work_area" type="string"/>
+        <index name="index">
+            <element name="line_manager"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
+        </index>
     </element>
 </database>

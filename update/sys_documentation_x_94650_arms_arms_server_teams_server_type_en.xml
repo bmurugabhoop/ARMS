@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-06-08 13:02:27</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>c63bf020db9332003221f91ebf9619e6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Server Type</sys_name>

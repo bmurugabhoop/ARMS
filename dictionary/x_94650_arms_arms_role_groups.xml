@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="ARMS - Role Groups" max_length="40" name="x_94650_arms_arms_role_groups" type="collection">
-        <element label="Domain" max_length="40" name="domain" type="string"/>
-        <element label="Group" max_length="40" name="group" type="string"/>
-    </element>
-</database>

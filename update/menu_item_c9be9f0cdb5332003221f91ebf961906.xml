@@ -15,7 +15,7 @@
         <sys_class_name>menu_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 11:40:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c9be9f0cdb5332003221f91ebf961906</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>New Request</sys_name>

@@ -12,7 +12,7 @@
         <sys_class_name>content_block_menu</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-06 11:49:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>28571a73db0732003221f91ebf9619f9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ARMS - UCP Splash Menu</sys_name>
