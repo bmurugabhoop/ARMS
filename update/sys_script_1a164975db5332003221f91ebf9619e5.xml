@@ -29,7 +29,19 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-
+	
+	var dtEndForm = g_form.getValue('expected_assignnment_end_date');
+    var dtEnd = getDateFromFormat(dtEndForm,g_user_date_time_format);  
+     
+    if (dtEndForm != '') {
+        var dtStartForm = g_form.getValue('account_commencement_date');
+        var dtStart = getDateFromFormat(dtStartForm,g_user_date_time_format);  
+        if (dtEnd < dtStart) {
+            g_form.showFieldMsg('account_commencement_date', 'Assignment Start date cannot be after end Expected assignment end date', 'error');
+			return false;
+        }  
+	}
+	
 // Instantiate the NeedItUtils class.  Call the isDatePast method and pass
 	// the u_when_needed value.
 	var niutils = new NeedItUtils();
@@ -37,7 +49,7 @@
 	
 	// If the isDatePast method returns true, the date is in the past.
 	if(isPast == true){
-		gs.addErrorMessage("Account Commencement Date cannot be in the past.  Your request has not been saved to the database.");
+		gs.addErrorMessage("Assignment Start Date cannot be in the past.  Your request has not been saved to the database.");
 		current.setAbortAction(true);
 	}	
 	
@@ -66,7 +78,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1a164975db5332003221f91ebf9619e5</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>UCP Date Fields Validate</sys_name>
         <sys_overrides/>
         <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
@@ -75,7 +87,7 @@
         <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
         <sys_update_name>sys_script_1a164975db5332003221f91ebf9619e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-14 14:59:50</sys_updated_on>
+        <sys_updated_on>2017-06-16 14:12:05</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

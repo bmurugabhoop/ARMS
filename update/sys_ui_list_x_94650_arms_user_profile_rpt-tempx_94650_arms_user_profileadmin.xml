@@ -4,137 +4,137 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>b16f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>d585adcfdb1332003221f91ebf9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>employee_status</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>356f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>5985adcfdb1332003221f91ebf9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>employee_number</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>b56f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>d985adcfdb1332003221f91ebf9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>company_name</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>396f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>5d85adcfdb1332003221f91ebf9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>date_of_birth</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>b96f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>dd85adcfdb1332003221f91ebf9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>account_commencement_date</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>3d6f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>5185adcfdb1332003221f91ebf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>line_manager</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>bd6f78b1db5332003221f91ebf9619d4</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>d185adcfdb1332003221f91ebf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nationality</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>316f78b1db5332003221f91ebf9619d5</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>5585adcfdb1332003221f91ebf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">3d6f78b1db5332003221f91ebf9619d3</list_id>
+            <list_id display_value="x_94650_arms_user_profile" element="NULL" name="x_94650_arms_user_profile" parent="NULL" relationship="NULL" sys_domain="global" view="335f78b1db5332003221f91ebf961940">1185adcfdb1332003221f91ebf9619cc</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
-            <sys_id>b16f78b1db5332003221f91ebf9619d5</sys_id>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
+            <sys_id>d585adcfdb1332003221f91ebf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 10:32:04</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -148,12 +148,12 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 10:33:07</sys_created_on>
+            <sys_created_on>2017-06-16 10:32:04</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3d6f78b1db5332003221f91ebf9619d3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>1185adcfdb1332003221f91ebf9619cc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name/>
             <sys_package/>
             <sys_policy/>
@@ -161,7 +161,7 @@
             <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
             <sys_update_name/>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 10:33:07</sys_updated_on>
+            <sys_updated_on>2017-06-16 12:29:28</sys_updated_on>
             <sys_user/>
             <view display_value="Rpt-tempx_94650_arms_user_profileadmin" name="rpt-tempx_94650_arms_user_profileadmin">335f78b1db5332003221f91ebf961940</view>
             <view_name/>

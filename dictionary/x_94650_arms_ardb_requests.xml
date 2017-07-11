@@ -2,18 +2,31 @@
 <database>
     <element label="ARMS - Requests" max_length="40" name="x_94650_arms_ardb_requests" type="collection">
         <element choice="1" label="Access Rights" max_length="40" name="access_rights" type="choice">
-            <choice/>
+            <choice>
+                <element label="Grant or Amend Access Rights" sequence="0" value="Grant or Amend Access Rights"/>
+                <element label="Revoke Access Rights" sequence="1" value="Revoke Access Rights"/>
+            </choice>
         </element>
         <element choice="1" label="Access Rights Requested" max_length="40" name="access_rights_requested" type="choice">
             <choice/>
         </element>
-        <element label="Administrator" max_length="40" name="administrator" reference="x_94650_arms_user_profile" type="reference"/>
-        <element label="Area" max_length="40" name="area" type="string"/>
-        <element label="Business Justification" mandatory="true" max_length="40" name="business_justification" type="string"/>
-        <element label="Department / Team" max_length="40" name="department_team" type="string"/>
-        <element label="Do you require access to?" max_length="40" name="do_you_require_access_to" type="string"/>
+        <element label="Administrator" max_length="40" name="administrator" reference="x_94650_arms_user_profile" reference_qual="status=Completed^EQ" reference_qual_condition="status=Completed^EQ" type="reference"/>
+        <element label="Area" mandatory="true" max_length="40" name="area" type="string"/>
+        <element label="Business Justification" mandatory="true" max_length="4000" name="business_justification" type="string"/>
+        <element label="Department / Team" mandatory="true" max_length="40" name="department_team" type="string"/>
+        <element choice="1" label="Do you require access to?" mandatory="true" max_length="40" name="do_you_require_access_to" type="string">
+            <choice>
+                <element label="Active Directory Role Group" sequence="0" value="Active Directory Role Group"/>
+                <element label="AD Very Privileged Account" sequence="1" value="AD Very Privileged Account"/>
+                <element label="Servers" sequence="2" value="Servers"/>
+                <element label="Folders" sequence="3" value="Folders"/>
+            </choice>
+        </element>
         <element label="End Date" mandatory="true" max_length="40" name="end_date" type="glide_date"/>
-        <element label="Line of Service" max_length="40" name="line_of_service" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Line Manager" max_length="32" name="line_manager" reference="sys_user" type="reference"/>
+        <element label="Line of Service" mandatory="true" max_length="40" name="line_of_service" type="string"/>
         <element default="Client 1" label="Name of Client" max_length="40" name="name_of_client" read_only="true" type="string"/>
         <element label="Region" max_length="40" name="region" type="string"/>
         <element label="Requestor" max_length="40" name="requestor" type="string"/>
@@ -24,6 +37,9 @@
         <element label="Type of Change" max_length="40" name="type_of_change" type="string"/>
         <index name="index">
             <element name="administrator"/>
+        </index>
+        <index name="index2">
+            <element name="line_manager"/>
         </index>
     </element>
 </database>

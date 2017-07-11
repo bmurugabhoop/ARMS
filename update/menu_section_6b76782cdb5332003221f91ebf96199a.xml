@@ -14,6 +14,7 @@
         <image/>
         <image_right/>
         <logged_on>false</logged_on>
+        <menu_section_color/>
         <name>Regions</name>
         <omit_body>false</omit_body>
         <order>400</order>

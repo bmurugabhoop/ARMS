@@ -1,6 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_94650_arms_ardb_requests" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>access_rights</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>f495350bdb5332003221f91ebf96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>access_rights_requested</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>7c95350bdb5332003221f91ebf96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>administrator</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>fc95350bdb5332003221f91ebf96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>area</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>7095350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_justification</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>f095350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>department_team</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>7495350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>do_you_require_access_to</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>f495350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>7895350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>f895350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_94650_arms_ardb_requests" element="NULL" name="x_94650_arms_ardb_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c95350bdb5332003221f91ebf96196e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-16 11:42:12</sys_created_on>
+            <sys_id>7c95350bdb5332003221f91ebf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-16 11:42:12</sys_updated_on>
+        </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
@@ -13,11 +163,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-09 13:01:18</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-06-16 10:33:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f6848ab8db9332003221f91ebf961952</sys_id>
+            <sys_id>b8d56103db5332003221f91ebf961975</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_94650_arms_ardb_requests</sys_name>
             <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
@@ -26,8 +176,8 @@
             <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
             <sys_update_name>sys_ui_list_x_94650_arms_ardb_requests_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-09 13:01:18</sys_updated_on>
-            <sys_user display_value="Balasubramanian Murugabhoopathy">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <sys_updated_on>2017-06-16 10:33:23</sys_updated_on>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

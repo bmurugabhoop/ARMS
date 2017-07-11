@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="content_page" unload_date="2017-06-15 12:48:30">
+<record_update node_type="content_page" unload_date="2017-07-11 14:09:25">
     <sys_portal action="delete_multiple" query="page=d38ada74dbd332003221f91ebf96197b">
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">
@@ -504,11 +504,11 @@
         <sys_class_name>content_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-09 14:37:27</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d38ada74dbd332003221f91ebf96197b</sys_id>
-        <sys_mod_count>123</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_name>ARMS - My Approvals</sys_name>
         <sys_overrides/>
         <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
@@ -517,9 +517,9 @@
         <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
         <sys_update_name>content_page_d38ada74dbd332003221f91ebf96197b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-09 14:40:10</sys_updated_on>
+        <sys_updated_on>2017-06-15 13:51:59</sys_updated_on>
         <title/>
-        <url_suffix>my_approvals</url_suffix>
+        <url_suffix>approvals</url_suffix>
         <user/>
         <view/>
         <workflow_state>draft</workflow_state>

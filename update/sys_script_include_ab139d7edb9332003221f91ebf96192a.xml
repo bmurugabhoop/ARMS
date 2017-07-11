@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_94650_arms.requestor_details</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>requestor_details</name>
+        <script><![CDATA[var requestor_details = Class.create();
+requestor_details.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+
+  requestor_info: function() {
+  var result = this.newItem("result");
+  var logged_user = gs.getUserID();
+  var user_detail = new GlideRecord('sys_user');
+  user_detail.addQuery('sys_id',logged_user);
+  user_detail.query();
+  while(user_detail.next())
+  {
+  result.setAttribute("user",user_detail.sys_id);
+  result.setAttribute("phone", user_detail.phone);
+  result.setAttribute("email",user_detail.email);
+  result.setAttribute("location",user_detail.location);
+  }
+
+  },
+
+   type: 'requestor_details'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-15 14:35:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ab139d7edb9332003221f91ebf96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requestor_details</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>sys_script_include_ab139d7edb9332003221f91ebf96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 14:35:21</sys_updated_on>
+    </sys_script_include>
+</record_update>

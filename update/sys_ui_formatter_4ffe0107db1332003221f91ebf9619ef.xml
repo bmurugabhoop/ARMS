@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter/>
+        <name>ARMS - User Profile</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-16 08:53:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4ffe0107db1332003221f91ebf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARMS - User Profile</sys_name>
+        <sys_package display_value="ARMS" source="x_94650_arms">95c0fdfbdb8332003221f91ebf961911</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ARMS">95c0fdfbdb8332003221f91ebf961911</sys_scope>
+        <sys_update_name>sys_ui_formatter_4ffe0107db1332003221f91ebf9619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-16 08:53:58</sys_updated_on>
+        <table>x_94650_arms_user_profile</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>
